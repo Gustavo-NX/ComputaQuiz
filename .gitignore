@@ -1,0 +1,18 @@
+.vscode/
+
+# Executáveis
+tools/ngrok.exe
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build/cache
+dist/
+build/
+
+.env
